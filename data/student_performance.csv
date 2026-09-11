@@ -1,0 +1,162 @@
+Student ID,Student Name,Gender,Class,Subject,Study Hours,Attendance %,Assignment Score,Midterm Score,Final Exam Score,Overall Score
+STU092,Student 092,Female,10th,English,3.9,90.9,60.0,55.8,77.0,69.5
+STU047,Student 047,Male,9th,Computer Science,5.1,90.1,65.7,99.2,85.6,92.3
+STU003,STUDENT 003,Male,9th,English,3.9,84.5,66.4,100.0,100.0,96.1
+STU104,Student 104,Female,10TH,Computer Science,2.8,73.3,,83.2,83.2,69.7
+STU099,Student 099,Male,12th,Physics,4.5,67.8,53.5,81.3,83.4,71.2
+STU005,Student 005,Male,11th,Physics,3.5,79.9,38.4,81.9,77.4,65.4
+STU050,Student 050,Male,11th,Chemistry,5.3,86.2,70.4,100.0,94.5,95.6
+STU102,Student 102,Male,11th,Mathematics,3.6,72.9,54.9,57.5,44.6,62.9
+STU009,Student 009,Female,10TH,Chemistry,3.9,80.4,92.2,69.3,77.8,80.6
+STU147,Student 147,Female,11th,Computer Science,3.8,98.0,38.1,76.6,50.6,71.1
+STU015,Student 015,,10th,English,4.6,89.0,51.4,70.7,71.4,72.5
+STU095,Student 095,Female,11th,Chemistry,1.9,88.7,56.0,50.2,72.5,69.0
+STU118,Student 118,Female,10th,English,5.5,82.7,78.9,77.3,79.9,86.0
+STU125,Student 125,Female,12th,Mathematics,3.0,78.7,71.5,72.7,38.9,60.9
+STU138,Student 138,Male,11th,English,4.2,94.4,63.5,69.8,63.6,71.6
+STU052,Student 052,Female,10th,Chemistry,4.8,91.4,90.6,87.5,69.1,77.0
+STU017,Student 017,Male,12th,Physics,2.1,75.0,46.2,76.8,49.4,61.5
+STU134,Student 134,FEMALE,9th,Computer Science,1.3,73.6,64.9,65.6,38.6,58.8
+STU136,Student 136,Male,9th,Computer Science,5.7,85.5,65.2,93.8,91.5,92.6
+STU025,Student 025,Female,9th,Computer Science,3.7,87.7,79.1,66.8,75.8,72.7
+STU044,Student 044,Female,10th,math,5.2,89.1,85.9,100.0,97.1,95.7
+STU010,Student 010,Male,10th,Chemistry,3.8,84.6,63.1,83.4,60.6,70.2
+STU086,Student 086,Female,10th, ENGLISH,1.8,79.8,60.7,84.6,75.9,73.2
+STU150,Student 150, male ,12th,Computer Science,4.9,89.6,88.3,99.7,83.4,91.5
+STU081,Student 081,Female,10th,Mathematics,4.2,58.7,55.2,60.2,62.7,57.4
+STU106,Student 106,Female,9th,Chemistry,3.8,83.5,57.5,79.6,62.0,74.8
+STU109,Student 109,Female,11th,Chemistry,2.1,-5.0,45.8,51.7,59.3,56.3
+STU041,Student 041,Male,12th,Mathematics,-3,90.9,71.0,74.9,59.0,69.1
+STU085,Student 085,Male,10th,Physics,3.8,82.5,79.5,73.6,67.0,69.7
+STU066,Student 066,Male,12th,English,6.4,,91.3,97.7,71.9,78.7
+STU101,Student 101,Female,10th,Mathematics,4.9,88.2,88.8,81.8,95.5,93.5
+STU146,Student 146,Male,9th,English,2.9,83.3,76.7,64.4,54.4,60.3
+STU091,Student 091,Female,11th,Physics,1.4,79.0,35.1,53.9,29.4,45.3
+STU007,Student 007,Male,12th,Physics,3.7,94.3,88.2,96.5,150.0,86.2
+STU123,Student 123,Female,11th,Computer Science,3.7,70.6,60.4,76.4,63.7,62.0
+STU090,Student 090,Male,11th,MATHEMATICS ,3.8,84.2,75.6,,73.4,59.9
+STU058,Student 058,Male,11th,Computer Science,2.8,91.5,52.7,61.4,47.2,59.2
+STU111,Student 111, Male,10th,Chemistry,3.4,76.2,64.0,74.2,74.5,70.5
+STU031,Student 031,Male,12th,Computer Science,4.4,73.8,75.5,75.0,50.9,59.6
+STU016,Student 016,Female,10th,Computer science,1.8,66.5,54.1,48.3,54.1,63.1
+STU082,Student 082,female ,9th,Computer Science,4.6,82.7,79.6,75.8,84.9,85.5
+STU071,Student 071,Male,12th,English,1.8,54.6,38.3,42.5,45.5,46.2
+STU075,Student 075,Female,11th,Physics,4.8,96.7,85.2,97.3,91.1,84.7
+STU003,Student 003,Male,9th,English,3.9,84.5,66.4,100.0,100.0,96.1
+STU113,Student 113,Female, 9th,Chemistry,4.0,86.9,48.0,83.2,79.5,80.5
+STU127,Student 127,Male,11 th ,English,4.4,78.3,67.1,100.0,95.9,90.2
+STU117,Student 117,Female,12th,Physics,3.2,76.5,46.8,85.6,74.8,68.7
+STU110,Student 110,Male,12th,English,4.7,100.0,54.8,81.7,97.6,92.7
+STU098,Student 098,Male,11th,English,5.8,76.7,89.5,95.4,88.0,82.6
+STU045,Student 045,Female,9th,English,3.1,80.7,71.0,88.3,55.6,61.8
+STU121,Student 121,Female,12th,Computer science,1.7,89.5,70.0,42.7,56.4,67.5
+STU137,Student 137,Male, 9th,Physics,4.7,85.6,65.6,100.0,90.1,78.8
+STU027,Student 027,Female,9th,physics ,5.2,100.0,96.6,100.0,94.2,96.0
+STU093,Student 093,Female,10th,Chemistry,2.2,,45.2,76.6,52.6,64.1
+STU011,Student 011,Female,10th,Mathematics,3.5,78.2,87.3,69.4,85.6,73.0
+STU051,Student 051,Female,10th,Chemistry,3.9,98.5,56.2,43.6,56.5,57.6
+STU026,Student 026,Male,11th,Chemistry,4.0,81.8,53.2,55.9,47.2,54.3
+STU119,Student 119,Female,11th,Mathematics,6.6,96.8,68.4,96.3,82.7,80.2
+STU072,Student 072,Female,10th,Physics,4.7,92.8,95.0,70.9,100.0,88.3
+STU014,Student 014,Female,12th, ENGLISH,6.1,86.8,75.3,76.9,51.4,70.1
+STU142,Student 142,,9th,Physics,1.0,67.4,40.9,,32.5,36.8
+STU068,Student 068,Male,12th,Physics,1.0,74.6,64.2,49.2,41.4,50.2
+STU037,Student 037,Female,9th,Mathematics,2.2,75.4,53.7,71.6,57.7,60.6
+STU073,Student 073,Female,12th,Physics,5.2,95.6,74.6,87.0,92.2,84.1
+,,,,,,,,,,
+STU059,Student 059,Male,9th,Physics,5.4,94.3,100.0,74.8,79.2,86.2
+STU065,Student 065,Male,11th,English,4.6,86.8,91.4,82.1,67.9,75.0
+STU103,Student 103,Male,12th,Physics,1.0,89.7,21.4,55.0,28.8,38.3
+STU083,Student 083,Male,10TH,Chemistry,5.1,77.9,80.3,70.6,72.5,70.3
+STU053,Student 053,Male,9th,Chemistry,3.3,70.6,79.3,73.9,71.6,72.8
+STU035,Student 035,Male,10th,Physics,3.2,100.0,89.8 ,69.7,61.5,80.2
+STU049,Student 049,Male,12th,Physics,4.8,78.6,79.4,87.9,90.1,89.3
+STU057,Student 057,Female,11th,Mathematics,4.3,77.3,65.0,80.4,91.6,92.5
+STU050,Student 050,Male,11th,Chemistry,5.3,86.2,70.4,100.0,94.5,95.6
+STU148,Student 148,Female,11th,Mathematics,3.8,98.3,57.5,70.7,61.6,63.5
+STU079,Student 079,Male,10th,Chemistry,2.9,82.7,78.9,75.7,75.8,81.7
+STU070,Student 070,Male,9th,Physics,4.4,89.2,64.1,96.0,,72.9
+STU087,Student 087,Male,11th,Mathematics,4.9,90.3,68.5,79.2,81.0,81.0
+STU135,Student 135,Female,,Mathematics,3.5,88.2,89.2,75.4,55.5,72.2
+STU029,Student 029,Male,9th,Chemistry,1.4,64.2,56.3 ,33.1,37.5,48.7
+STU008,Student 008,Female,12th,Chemistry,4.1,91.7,65.8,100.0,75.7,84.0
+STU004,Student 004,Male,10th,Chemistry,4.8,84.0,82.5,73.0,80.7,75.8
+STU033,Student 033,Female,9th,English,4.3,83.9,81.8,79.1,61.8,68.5
+STU038,Student 038,Male,12th,Computer Science,1.6,72.2,58.0,54.5,43.3,49.5
+STU043,Student 043,Male,9th,Mathematics,1.9,,,79.8,36.4,50.7
+STU129,Student 129,Male,12th,Mathematics,1.0,71.5,43.0,61.5,51.1,51.9
+STU011,Student 011,Female,10th,Mathematics,3.5,78.2,87.3,69.4,85.6,73.0
+STU055,Student 055,Female,11th,Chemistry,2.8,100.0,69.4,61.6,46.1,60.8
+STU088,Student 088,FEMALE,10th,Chemistry,5.5,97.5,73.0,60.1,81.1,82.7
+STU128,Student 128,Male,9th,Physics,2.8,67.3,68.0 ,63.8,,62.5
+STU112,Student 112,Female,11th,Mathematics,2.4,66.1,62.5,55.3,39.7,54.9
+STU133,Student 133,Male,10th,Computer science,4.3,84.0,75.0,85.9,92.6,86.5
+STU032,Student 032, Male,11th,Computer Science,4.8,100.0,81.9,84.3,88.7,82.9
+STU143,Student 143,Male,10th,Computer Science,4.6,97.2,81.8,84.0,83.6,92.9
+STU064,Student 064,Female,10th,Physics,2.6,88.4,71.8,66.3,68.1,71.7
+STU094,Student 094,Male,12th,Computer Science,3.1,87.2,67.5,43.4,54.8,54.7
+STU046,Student 046,Female,9th,Chemistry,2.3,78.9,50.6,67.2,53.1,58.0
+STU126,Student 126,Female,,Mathematics,1.7,63.0,52.3,59.4,42.6,55.0
+STU140,Student 140,Male,10th,Mathematics,5.2,81.4,80.7,100.0,100.0,93.9
+STU030,Student 030,Male,12th,Computer Science,2.1,64.9,56.9,74.0,64.1,64.6
+STU054,Student 054,Male,11th,English,3.5,89.2,40.9,74.0,69.2,72.6
+STU001,STUDENT 001,Male,9th,Mathematics,4.6,77.6,85.7,100.0,76.9,79.2
+STU145,Student 145,Female,12th,Computer Science,5.1,84.5,63.4,88.1,77.8,82.4
+STU061,Student 061,Male,11th,Chemistry,4.9,88.0,79.5,87.2,100.0,93.9
+STU019,Student 019,Female,11th,Physics,2.1,69.0,49.4,57.6,67.2,71.6
+STU084,Student 084,Male,12th,Chemistry,5.6,81.5,84.5,75.6,83.9,77.6
+STU107,Student 107,Male,9th,Chemistry,1.7,74.1,39.8,76.6,59.2,60.9
+STU149,Student 149,Female,9th,Mathematics,1.9,76.4,66.8,89.2,59.3,71.9
+STU067,Student 067,Male,10th,English,4.8,83.2,66.3,93.4,67.4,76.4
+STU039,Student 039,Male,9th,Mathematics,3.0,72.1,50.8,74.3,60.1,68.9
+STU122,Student 122,Male,12th ,English,3.1,105.0,58.8,71.8,66.4,67.2
+STU116,Student 116,Female,10th,English,3.9,71.0,88.8,64.8,73.8,79.5
+STU062,Student 062,Female,9th,Mathematics,2.5,73.0,,60.5,70.1,74.1
+STU024,Student 024,Female,10th,Physics,4.9,86.6,100.0,92.0,88.5,88.3
+STU001,Student 001,Male,9th,Mathematics,4.6,77.6,85.7,100.0,76.9,79.2
+STU002,STUDENT 002,Female,10th,Computer science,5.0,,100.0,100.0,86.6,95.2
+STU120,Student 120,Female,12th,Chemistry,2.5,92.5,61.1,,70.1,71.5
+STU132,Student 132,Male,9th,English,3.5,93.4,,73.3,78.2,73.3
+STU088,Student 088,FEMALE,10th,Chemistry,5.5,97.5,73.0,60.1,81.1,82.7
+STU105,Student 105, male ,11th,English,25,82.4,78.8,79.5,-10.0,78.6
+STU089,Student 089,Female,,Computer Science,4.7,87.3,82.0,85.2,78.9,81.3
+STU139,Student 139,Female,10th,Physics,3.9,71.2,97.2,82.3,,66.6
+STU077,Student 077,Male,12th,Mathematics,6.3,88.2,85.0,89.4,95.2,93.3
+STU078,Student 078, Male,12th,Computer Science,3.7,83.1,89.1,76.5,83.9,83.0
+STU013,Student 013,Male,12th ,Physics,7.5,100.0,97.1 ,100.0,100.0,100.0
+STU034,Student 034,Female,11th,English,5.2,94.9,61.6,100.0,82.5,88.5
+STU124,Student 124,Female,10th,Mathematics,3.5,92.2,65.9,100.0,45.3,70.0
+STU042,Student 042,Female,9th,math,5.0,81.7,73.6 ,95.8,75.5,82.4
+STU114,Student 114,Male,12th,Physics,5.7,84.3,90.4,84.4,80.0,86.4
+STU096,Student 096,Female,12th,Physics,3.4,82.4,63.0,85.3,68.9,75.0
+STU012,Student 012, Male,10th,Mathematics,5.3,73.1,79.3,100.0,76.4,80.1
+STU115,Student 115,Female,12th,Mathematics,4.3,84.2,91.5,88.5,79.2,86.0
+STU076,Student 076,Male,9th,Mathematics,3.3,81.7,89.1,96.7,78.7,80.7
+STU002,Student 002,Female,10th,Computer science,5.0,,100.0,100.0,86.6,95.2
+STU097,Student 097,Female,11th,Mathematics,3.8,81.1,67.4,100.0,75.1,80.3
+STU006,Student 006,Male,11th,Physics,5.3,88.0,82.0,100.0,72.6,91.8
+STU023,Student 023,Female,9th,Mathematics,4.1,59.6,71.8,82.3,,75.6
+STU020,Student 020,Male,12th,Chemistry,1.0,78.2,39.1,63.0,48.2,44.2
+STU100,Student 100,Male,10th,English,3.8,,64.2 ,72.2,59.3,65.6
+STU022,Student 022,Male,11th,Physics,5.0,85.2,77.2,99.2,125.0,83.2
+STU074,Student 074,Female,10th,Chemistry,5.1,76.9,85.2,100.0,84.6,89.9
+STU018,Student 018,Female,9th,English,5.5,97.0,81.8,100.0,93.7,95.7
+STU144,Student 144,Male,12th,Physics,5.4,95.9,83.5,100.0,100.0,100.0
+STU063,Student 063,Male,9th,English,2.9,81.6,,87.0,62.0,79.8
+STU028,Student 028,Male,12th,Physics,3.9,84.5,58.5,97.3,65.7,71.9
+STU048,Student 048,,11th,Mathematics,3.5,77.7,85.0,80.6,62.1,69.7
+STU080,Student 080,Female,12th,English,2.3,73.2,92.2,,48.4,66.7
+STU040,Student 040,Female,9th,Mathematics,6.0,88.0,96.0,100.0,85.9,94.5
+STU092,Student 092,Female,10th,English,3.9,90.9,60.0,55.8,77.0,69.5
+STU021,Student 021,Male,10th,Computer Science,4.2,140.0,42.8,100.0,74.0,78.5
+STU141,Student 141,Female,10th,Mathematics,5.1,84.5,100.0,75.0,64.2,83.0
+STU131,Student 131,Female,9th,Physics,5.4,79.6,79.3,76.7,85.4,75.0
+STU108,Student 108, male ,12th,Mathematics,6.0,100.0,63.1,81.2,83.4,83.1
+STU060,Student 060,Female,,Physics,1.0,83.0,54.3,41.0,,47.6
+STU056,Student 056,Male,10th,Physics,3.3,96.7,75.7,76.2,72.7,77.8
+,,,,,,,,,,
+STU112,Student 112,Female,11th,Mathematics,2.4,66.1,62.5,55.3,39.7,54.9
+,,,,,,,,,,
+STU069,Student 069,Female,10th,Physics,4.8,83.5,56.5,98.6,81.8,83.7
+STU036,Student 036,Male,9th,Computer Science,5.6,86.3,100.0,81.6,87.1,91.3
+STU130,Student 130,Female,12th,Chemistry,1.7,80.1,80.8,54.3,58.3,62.9
