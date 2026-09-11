@@ -1,4 +1,27 @@
+# Jupyter Notebook
 .ipynb_checkpoints/
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
 .env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Python distribution/build files
+build/
+dist/
+*.egg-info/
